@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Kieran/Downloads/Code/CSCI-2275/assignment-0-kstone3/code_1/functions.cpp
+functions.hpp
+/mnt/c/Users/Kieran/Downloads/Code/CSCI-2275/assignment-0-kstone3/code_1/functions.hpp
+
+/mnt/c/Users/Kieran/Downloads/Code/CSCI-2275/assignment-0-kstone3/code_1/functions.hpp
+string
+-
+iostream
+-
+fstream
+-
+
